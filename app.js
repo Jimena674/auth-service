@@ -1,4 +1,4 @@
-// 1. Importar módulos para acceder a sus funciones a través de la variable
+// Importar módulos para acceder a sus funciones a través de la variable
 const express = require("express"); // Para crear servicios
 const mongoose = require("mongoose"); // Para conectarse con MongoDB
 const dotenv = require("dotenv"); // Para leer variables de entorno del archivo dev
